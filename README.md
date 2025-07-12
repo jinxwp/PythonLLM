@@ -1,0 +1,1 @@
+This is a Boot.Dev project to build an AI agent in python using googles genai.
